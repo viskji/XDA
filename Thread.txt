@@ -239,7 +239,7 @@ Theming
 
 
 [IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Links.png[/IMG]
-[INDENT][SIZE="3"][B]ROM:[/B] [URL]https://sourceforge.net/projects/havoc-os/files/[/URL]
+[INDENT][SIZE="3"][B]ROM:[/B] [URL]https://drive.google.com/file/d/1QFPFYVB8q2FSbsIGkOyKxKMp84S-965D/view?usp=sharing[/URL]
 [B]Recovery:[/B] [URL]https://twrp.me[/URL]
 [B]Open GApps:[/B] [URL]http://opengapps.org[/URL]
 [B]Magisk:[/B] [URL]https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445[/URL]
@@ -251,7 +251,7 @@ Theming
 [IMG]https://raw.githubusercontent.com/Havoc-OS/XDA/ten/Images/Installation.png[/IMG]
 [INDENT][SIZE="3"][B]1.[/B] Download the ROM, GApps (Optional), Magisk (Optional) from the links above.
 [B]2.[/B] Wipe System, Data, Dalvik, Cache.
-[B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
+[B]3.[/B] Flash the ROM and Twrp Installer.
 [B]4.[/B] Reboot and Enjoy.[/SIZE][/INDENT]
 
 
